@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f7da8ceac46e226b",
+        "id": "6a0aae930a4dadbb",
         "type": "split",
         "children": [
           {
@@ -24,30 +24,15 @@
                   "icon": "lucide-file",
                   "title": "技术复盘"
                 }
-              },
-              {
-                "id": "aa6e92cff6bdf619",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "学习积累/git学习/连接并拿到远程仓库.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "连接并拿到远程仓库"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "d412cc8fbb6a85d5",
+            "id": "07361dc4879bf91c",
             "type": "tabs",
             "children": [
               {
-                "id": "715d1c823151cc43",
+                "id": "1204dd318364ea9f",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -291,11 +276,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "715d1c823151cc43",
+  "active": "1204dd318364ea9f",
   "lastOpenFiles": [
-    "学习积累/git学习/连接并拿到远程仓库.md",
-    "学习积累/git学习/推送远程新仓库.md",
     "面试整理/场景问题/clutch项目/技术复盘.md",
+    "学习积累/git学习/本地强行替换远程仓库.md",
+    "学习积累/git学习/检查git用户邮箱配置环境.md",
+    "学习积累/git学习/取消git跟踪.md",
+    "学习积累/git学习/git创建分支并关联到远程仓库.md",
+    "学习积累/git学习/配置SSH流程.md",
+    "学习积累/git学习/推送远程新仓库.md",
+    "学习积累/git学习/连接并拿到远程仓库.md",
     "学习日志/2026.08/28「log」.md",
     "学习总结/8月26日阶段规划.md",
     "学习日志/2026.08/27「log」.md",
@@ -320,15 +310,10 @@
     "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/故障艺术风.md",
     "attachments/Pasted image 20260825150313.png",
     "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/赛博朋克.md",
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/视差杂志.md",
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/学术科普风.md",
     "attachments/Pasted image 20260825150213.png",
     "attachments/Pasted image 20260825150108.png",
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/涂鸦接头.md",
     "attachments/Pasted image 20260825150023.png",
     "attachments/Pasted image 20260825145931.png",
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/终端风.md",
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/Github风格.md",
     "后端思维/clutch项目后端思维/测试组件",
     "后端思维/clutch项目后端思维/通用基础设施",
     "后端思维/clutch项目后端思维/主干链路",
