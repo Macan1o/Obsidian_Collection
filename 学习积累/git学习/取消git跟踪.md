@@ -1,0 +1,5 @@
+
+---
+
+	git rm --cached XXX
+

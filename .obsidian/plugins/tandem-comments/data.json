@@ -1,0 +1,20 @@
+{
+  "settingsVersion": 1,
+  "highlightColor": "#ffd54a",
+  "highlightOpacity": 30,
+  "colorAuthorNames": true,
+  "showResolvedByDefault": false,
+  "resolveBehavior": "remove",
+  "sidebarSortOrder": "document",
+  "submitShortcut": "enter",
+  "timestampDisplay": "full",
+  "confirmDestructiveActions": true,
+  "showReadingViewIndicator": true,
+  "schemaHint": true,
+  "copyIncludeQuote": true,
+  "exportNameTemplate": "{{filename}} – Comments",
+  "exportScope": "all",
+  "exportDestination": "source",
+  "exportFolder": "",
+  "authorColorOverrides": {}
+}

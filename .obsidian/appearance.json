@@ -1,0 +1,12 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "text-spacing"
+  ],
+  "cssTheme": "Monokai",
+  "accentColor": "#a0b3ba",
+  "textFontFamily": "Futura,NanoDyongChyangSong CN 24",
+  "interfaceFontFamily": "Arial Black,NanoDyongChyangSong CN 24",
+  "translucency": false
+}

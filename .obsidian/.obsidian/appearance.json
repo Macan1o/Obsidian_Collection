@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "text-spacing"
+  ],
+  "cssTheme": "Minimal",
+  "accentColor": "#a2b8c3",
+  "textFontFamily": "Futura,NanoDyongChyangSong CN 24",
+  "interfaceFontFamily": "Arial Black",
+  "translucency": false
+}

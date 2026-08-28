@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786583671839-s0p2uv60d",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786583671945-fzu3cvx",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786583671826-awnwi04",
+      "timestamp": 1786583671826,
+      "rawDisplayText": "你是什么模型",
+      "canonicalText": "你是什么模型",
+      "context": {
+        "currentNote": {
+          "path": "学习日志/2026.08/13「log」.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "5cd5e8b5fecc8827dee2d60f0bf45af45c79c1f87ad1880e94e0264a8f6834e9",
+      "providerUserMessageId": "ad9f0499-6670-45ff-99f4-4076eedcf6a4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786584010638-3c3dan0",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786584010629-lxtnb08",
+      "timestamp": 1786584010629,
+      "rawDisplayText": "你是什么模型",
+      "canonicalText": "你是什么模型",
+      "images": [],
+      "contentDigest": "5cd5e8b5fecc8827dee2d60f0bf45af45c79c1f87ad1880e94e0264a8f6834e9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786584084811-uegs8ta",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786584084798-blleffs",
+      "timestamp": 1786584084798,
+      "rawDisplayText": "你是什么模型",
+      "canonicalText": "你是什么模型",
+      "images": [],
+      "contentDigest": "5cd5e8b5fecc8827dee2d60f0bf45af45c79c1f87ad1880e94e0264a8f6834e9",
+      "providerUserMessageId": "edd05c43-4a34-4f3c-97c2-550e73ce0f7e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786584419928-oy5s8zh",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786584419919-27ft6o5",
+      "timestamp": 1786584419919,
+      "rawDisplayText": "你是什么模型",
+      "canonicalText": "你是什么模型",
+      "images": [],
+      "contentDigest": "5cd5e8b5fecc8827dee2d60f0bf45af45c79c1f87ad1880e94e0264a8f6834e9",
+      "providerUserMessageId": "0bb50b6a-5233-4d50-92cf-13d88f4b9308",
+      "providerAssistantMessageId": "3b962e9c-5a7a-4122-9da0-301f91a06adb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786584542563-gg65jva",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786584542557-z1tmc9i",
+      "timestamp": 1786584542557,
+      "rawDisplayText": "你是什么模型",
+      "canonicalText": "你是什么模型",
+      "images": [],
+      "contentDigest": "5cd5e8b5fecc8827dee2d60f0bf45af45c79c1f87ad1880e94e0264a8f6834e9",
+      "providerUserMessageId": "05179381-cb5c-46b0-9c3b-3cbd98e234b1",
+      "providerAssistantMessageId": "a76b2684-6676-4377-a10b-b5504c385282"
+    }
+  ]
+}
