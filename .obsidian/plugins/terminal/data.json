@@ -286,7 +286,7 @@
       "useWin32Conhost": true
     }
   },
-  "defaultProfile": null,
+  "defaultProfile": "darwinIntegratedDefault",
   "terminalOptions": {
     "documentOverride": null
   }
