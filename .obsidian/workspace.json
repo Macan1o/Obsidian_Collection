@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6a0aae930a4dadbb",
+        "id": "bab1e993e0ca4cb3",
         "type": "split",
         "children": [
           {
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "07361dc4879bf91c",
+            "id": "652446cf4437d0ff",
             "type": "tabs",
             "children": [
               {
-                "id": "1204dd318364ea9f",
+                "id": "d51d38700e6c9b1b",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -136,7 +136,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -276,7 +278,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1204dd318364ea9f",
+  "active": "d51d38700e6c9b1b",
   "lastOpenFiles": [
     "面试整理/场景问题/clutch项目/技术复盘.md",
     "学习积累/git学习/本地强行替换远程仓库.md",

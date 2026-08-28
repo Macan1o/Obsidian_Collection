@@ -2,7 +2,8 @@
   "theme": "moonstone",
   "baseFontSize": 19,
   "enabledCssSnippets": [
-    "text-spacing"
+    "text-spacing",
+    "remove‑button‑bg.css"
   ],
   "cssTheme": "Monokai",
   "accentColor": "#a0b3ba",
