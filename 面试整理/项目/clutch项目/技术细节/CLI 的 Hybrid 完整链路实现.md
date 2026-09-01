@@ -6,7 +6,7 @@
 
 
 
-cli_session_id 解决的是，同一个 run_id 里，多轮去调外部CLI时，怎么接着CLI自己的那条会话。cli_session_id 只是一把钥匙，外部CLI的会话存储中已经存了完整对话，只需要通过这个找到对应的对话即可
+`cli_session_id` 解决的是，同一个 run_id 里，多轮去调外部 CLI 时，怎么接着CLI自己的那条会话。cli_session_id 只是一把钥匙，外部CLI的会话存储中已经存了完整对话，只需要通过这个找到对应的对话即可
 
 
 
@@ -28,7 +28,7 @@ write 进 PTY → read 直到 marker
 ## 逻辑总结
 
 
-- 首次执行到CLI分支的时候先起 bash 进程
+- 首次执行到 CLI 分支的时候先起 bash 进程
 	
 - 然后用 PTY 将 Python 和 bash 接上
 	
