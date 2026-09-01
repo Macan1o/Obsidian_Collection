@@ -7,7 +7,7 @@
   ],
   "cssTheme": "Monokai",
   "accentColor": "#a0b3ba",
-  "textFontFamily": "Futura,NanoDyongChyangSong CN 24",
-  "interfaceFontFamily": "Arial Black,NanoDyongChyangSong CN 24",
+  "textFontFamily": "Noto Serif SC,Futura,NanoDyongChyangSong CN 24",
+  "interfaceFontFamily": "Noto Serif SC,Arial Black,NanoDyongChyangSong CN 24",
   "translucency": false
 }

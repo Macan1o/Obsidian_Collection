@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6ead148965166567",
+        "id": "1c12522c03b5b5a1",
         "type": "split",
         "children": [
           {
@@ -40,48 +40,6 @@
                 }
               },
               {
-                "id": "f0546bcf3980c75d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "面试整理/项目/clutch项目/技术细节/Agent 副作用与工具函数设计.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Agent 副作用与工具函数设计"
-                }
-              },
-              {
-                "id": "6a2715e8511f5d48",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "面试整理/项目/clutch项目/技术细节/池化复用、LRU、工作区互斥.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "池化复用、LRU、工作区互斥"
-                }
-              },
-              {
-                "id": "360f14768beebb44",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "学习积累/git学习/检查git用户邮箱配置环境.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "检查git用户邮箱配置环境"
-                }
-              },
-              {
                 "id": "500ed95dfe6fbde7",
                 "type": "leaf",
                 "state": {
@@ -95,15 +53,14 @@
                   "title": "技术面整理"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
-            "id": "dee5a187831a74f2",
+            "id": "ab823e54d46e946a",
             "type": "tabs",
             "children": [
               {
-                "id": "c4fb4979d7f7c701",
+                "id": "b1ab408f4074cc81",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -218,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "c809f1e1a0a386cc",
@@ -348,17 +304,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c4fb4979d7f7c701",
+  "active": "b1ab408f4074cc81",
   "lastOpenFiles": [
+    "面试整理/场景问题/clutch项目/技术复盘.md",
+    "面试整理/简历包装/技术面整理.md",
+    "面试整理/简历包装/简历.md",
+    "面试整理/项目/clutch项目/技术细节/「前端」ClutchStore 的状态管理设计.md",
     "学习积累/git学习/检查git用户邮箱配置环境.md",
     "面试整理/项目/clutch项目/技术细节/池化复用、LRU、工作区互斥.md",
     "面试整理/项目/clutch项目/技术细节/Agent 副作用与工具函数设计.md",
     "面试整理/项目/clutch项目/技术细节/文件回滚部署.md",
-    "面试整理/项目/clutch项目/技术细节/「前端」ClutchStore 的状态管理设计.md",
     "面试整理/项目/clutch项目/技术细节/执行引擎分流.md",
-    "面试整理/简历包装/技术面整理.md",
     "attachments/Pasted image 20260901145204.png",
-    "面试整理/场景问题/clutch项目/技术复盘.md",
     "面试整理/项目/clutch项目/技术细节/从连接工具到输出完整内容整个链路.md",
     "面试整理/项目/clutch项目/技术细节/Skill、MCP从配置到注入链路.md",
     "面试整理/项目/clutch项目/技术细节/LangGraph运转链路.md",
@@ -376,7 +333,6 @@
     "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/手绘涂鸦风.md",
     "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/像素艺术风.md",
     "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/波普艺术.md",
-    "面试整理/项目/clutch项目/技术细节/WS 事件专题.md",
     "attachments/Pasted image 20260831202903.png",
     "attachments/Pasted image 20260831190554.png",
     "attachments/Pasted image 20260831164630.png",
