@@ -623,17 +623,17 @@
       "tag": false,
       "property": false
     },
-    "面试整理/简历包装/技术面整理.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "学习积累/Python学习/JS 视角看 Python.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
     "学习积累/Python学习/Clutch项目语法映射.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "面试整理/简历包装/技术面整理/功能实现整理.md": {
       "folder": true,
       "tag": false,
       "property": false
