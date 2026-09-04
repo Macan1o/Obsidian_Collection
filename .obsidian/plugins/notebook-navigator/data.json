@@ -493,37 +493,12 @@
   },
   "customVaultName": "",
   "pinnedNotes": {
-    "学习积累/Python学习/Python学习规划.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/提示词工程参考及实践.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/提示词工程范畴.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/skill 库沉淀/Skill 的书写思路.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "学习积累/面试八股/简历包装/工作内容包装思路.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
     "学习积累/面试八股/简历包装/clutch项目讲解/面试问题归纳/问题归纳.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/Claude.md的维护准则.md": {
       "folder": true,
       "tag": false,
       "property": false
@@ -538,57 +513,7 @@
       "tag": false,
       "property": false
     },
-    "后端思维/clutch项目后端思维/全局组件地图.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "学习积累/学习日志/7～8月任务进度.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "面试整理/场景问题/clutch项目/横切闭环题.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "后端思维/clutch项目后端思维/学习提示词.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/波普艺术.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/漫画风格.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/像素艺术风.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/手绘涂鸦风.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/色彩印刷风.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/水墨画风.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Agent学习/提示词沉淀/UI设计积累/UI素材库/运动涂鸦风.md": {
       "folder": true,
       "tag": false,
       "property": false
@@ -623,17 +548,87 @@
       "tag": false,
       "property": false
     },
-    "学习积累/Python学习/JS 视角看 Python.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "学习积累/Python学习/Clutch项目语法映射.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "面试整理/简历包装/技术面整理/功能实现整理.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "面试整理/简历包装/技术面整理/测试和错误处理和容灾整理.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "面试整理/项目/Macando项目/业务逻辑链路.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/后端学习/clutch项目后端思维/全局组件地图.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/后端学习/clutch项目后端思维/学习提示词.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/Claude.md的维护准则.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/提示词工程参考及实践.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/提示词工程范畴.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/skill 库沉淀/Skill 的书写思路.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/使用说明.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/漫画风格.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Python学习/Clutch项目语法映射.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Python学习/JS 视角看 Python.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "编程学习/Python学习/Python学习规划.md": {
       "folder": true,
       "tag": false,
       "property": false
@@ -644,41 +639,42 @@
   "fileColors": {},
   "fileBackgroundColors": {},
   "folderIcons": {
-    "学习积累/Agent学习": "emoji:🧠",
-    "学习积累/面试八股": "search",
-    "学习积累/编程思维": "brain",
-    "学习积累/框架学习": "frame",
-    "学习积累/Python学习": "emoji:🐍",
     "attachments": "file-down",
-    "学习积累": "emoji:📓",
-    "学习积累/git学习": "network",
-    "后端思维": "server",
-    "学习积累/学习日志": "logs",
-    "学习积累/面试八股/简历包装": "emoji:🫔"
+    "面试整理": "emoji:💼",
+    "编程学习": "emoji:🧑‍💻",
+    "编程学习/面试八股": "search",
+    "编程学习/学习日志": "logs",
+    "编程学习/面试八股/简历包装": "emoji:🫔",
+    "编程学习/编程思维": "brain",
+    "编程学习/后端学习": "server",
+    "编程学习/框架学习": "frame",
+    "编程学习/Agent学习": "emoji:🧠",
+    "编程学习/git学习": "network",
+    "编程学习/Python学习": "emoji:🐍",
+    "编程学习/公司内容学习": "emoji:☠️"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "学习积累/面试八股/简历包装/clutch项目讲解": "created-desc",
-    "学习积累/Python学习/进阶特性": "created-desc",
-    "后端思维/clutch项目后端思维": "created-desc",
-    "面试整理/场景问题/clutch项目": "created-desc",
     "面试整理/简历包装": "created-desc",
     "面试整理/项目/clutch项目/主链路完整逻辑": "created-desc",
-    "面试整理/项目/clutch项目/技术细节": "created-desc"
+    "面试整理/项目/clutch项目/技术细节": "created-desc",
+    "编程学习/面试八股/简历包装/clutch项目讲解": "created-desc",
+    "编程学习/后端学习/clutch项目后端思维": "created-desc",
+    "编程学习/Python学习/进阶特性": "created-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
     "打工日记": {
       "mode": "compact"
     },
-    "学习积累/面试八股": {
-      "mode": "compact"
-    },
-    "后端思维": {
+    "/": {
       "previewRows": 1
     },
-    "/": {
+    "编程学习/面试八股": {
+      "mode": "compact"
+    },
+    "编程学习/后端学习": {
       "previewRows": 1
     }
   },
@@ -697,9 +693,8 @@
   "virtualFolderColors": {},
   "virtualFolderBackgroundColors": {},
   "navigationSeparators": {
-    "folder:学习积累/Agent学习": true,
-    "folder:学习积累/编程思维": true,
-    "folder:attachments": true
+    "folder:attachments": true,
+    "folder:编程学习": true
   },
   "userColors": [
     "#ffffff",
