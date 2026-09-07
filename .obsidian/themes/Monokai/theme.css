@@ -97,7 +97,7 @@
   --text-highlight-bg: var(--yellow);
   --text-highlight: var(--gray-3);
   --text-selection: var(--blue);
-  --text-on-accent: var(--base-1);
+  --text-on-accent: var(--gray-3);
   --code-normal: var(--white);
   --button-text-normal: var(--gray-3);
   --link-color: var(--orange);
@@ -115,10 +115,11 @@
   --h5-color: var(--gray-2);
   --interactive-normal: var(--white);
   --interactive-hover: var(--base-2);
-  --interactive-accent: var(--gray-3);
-  --interactive-accent-rgb: 97, 175, 239;
-  --interactive-accent-hover: var(--white);
-  --button-interactive-normal: var(--white);
+  /* 浅色模式强调色用 yellow，避免 CTA/选中态变成 #2c292d 深灰块 */
+  --interactive-accent: var(--yellow);
+  --interactive-accent-rgb: 250, 216, 114;
+  --interactive-accent-hover: var(--orange);
+  --button-interactive-normal: var(--yellow);
   --scrollbar-active-thumb-bg: rgba(40, 42, 58, 0.02);
   --scrollbar-bg: rgba(40, 42, 58, 0.05);
   --scrollbar-thumb-bg: rgba(40, 42, 58, 0.1);
