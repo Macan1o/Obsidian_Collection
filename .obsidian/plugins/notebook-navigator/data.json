@@ -543,11 +543,6 @@
       "tag": false,
       "property": false
     },
-    "面试整理/简历包装/业务面整理.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "面试整理/简历包装/技术面整理/功能实现整理.md": {
       "folder": true,
       "tag": false,
@@ -632,6 +627,11 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "面试整理/简历包装/业务面整理/业务面整理.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "collapsedPinnedContexts": {},
@@ -651,7 +651,8 @@
     "编程学习/Agent学习": "emoji:🧠",
     "编程学习/git学习": "network",
     "编程学习/Python学习": "emoji:🐍",
-    "编程学习/公司内容学习": "emoji:☠️"
+    "编程学习/公司内容学习": "emoji:☠️",
+    "使用Obsidian": "notebook-pen"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
