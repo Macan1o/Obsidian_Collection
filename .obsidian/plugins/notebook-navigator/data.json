@@ -127,7 +127,7 @@
     "navigation": {
       "toggleDualPane": true,
       "expandCollapse": true,
-      "calendar": true,
+      "calendar": false,
       "hiddenItems": true,
       "rootReorder": true,
       "newFolder": true
@@ -136,7 +136,7 @@
       "back": true,
       "search": true,
       "reveal": false,
-      "descendants": true,
+      "descendants": false,
       "sort": true,
       "appearance": true,
       "newNote": true
