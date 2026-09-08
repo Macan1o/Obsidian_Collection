@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d4746290384ca16a",
+        "id": "490eb024fe19ca8c",
         "type": "split",
         "children": [
           {
@@ -54,14 +54,14 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
-            "id": "e78286beade44e7d",
+            "id": "748274d9408be180",
             "type": "tabs",
             "children": [
               {
-                "id": "6c3fa7890f85e7bd",
+                "id": "a47c122090afcfde",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "c809f1e1a0a386cc",
@@ -308,8 +307,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6c3fa7890f85e7bd",
+  "active": "a47c122090afcfde",
   "lastOpenFiles": [
+    "面试整理/简历包装/技术面整理/功能实现整理.md",
     "编程学习/Python学习/应用场景代码/Websocket_patch 防抖合批.md",
     "编程学习/Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md",
     "编程学习/Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
@@ -321,7 +321,6 @@
     "编程学习/git学习/更换用户名的git流程.md",
     "编程学习/git学习/git创建分支并关联到远程仓库.md",
     "面试整理/简历包装/业务面整理",
-    "面试整理/简历包装/技术面整理/功能实现整理.md",
     "使用Obsidian/NoteBook Navigator 透明图标设置.md",
     "编程学习/git学习/推送远程新仓库.md",
     "使用Obsidian",
