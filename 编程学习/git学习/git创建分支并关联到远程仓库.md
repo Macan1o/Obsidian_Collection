@@ -18,3 +18,8 @@ git checkout -b gX/XXXXXXXXX
 git push -u origin gX/XXXXXXXX
 ```
 
+### 如果需要强行覆盖远程分支「慎用」
+
+```
+git push -f origin
+```
