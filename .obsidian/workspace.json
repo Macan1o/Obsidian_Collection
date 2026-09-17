@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4d248becf988ea",
+        "id": "7306968e5871d799",
         "type": "split",
         "children": [
           {
@@ -59,11 +59,11 @@
             "currentTab": 1
           },
           {
-            "id": "3f9e2fa9d2032a43",
+            "id": "b7e63b310ee0956d",
             "type": "tabs",
             "children": [
               {
-                "id": "e060e1e1f1efb7b6",
+                "id": "8aafbb06c530bcf9",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -310,7 +310,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e060e1e1f1efb7b6",
+  "active": "8aafbb06c530bcf9",
   "lastOpenFiles": [
     "面试整理/简历包装/整体包装.md",
     "面试整理/简历包装/业务面整理/业务面整理.md",
