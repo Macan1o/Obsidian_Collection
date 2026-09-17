@@ -6,7 +6,8 @@
 
 ## 使用验证方式
 
-	npx tsx demo.ts
+	cd websocket_patch防抖合批
+	node demo.mjs
 
 |文件|作用|
 |---|---|
