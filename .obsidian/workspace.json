@@ -4,73 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "7306968e5871d799",
+        "id": "4046dac3d4ed7b87",
         "type": "split",
         "children": [
           {
-            "id": "12c7078bfc64d692",
+            "id": "e77a4e849cd4185e",
             "type": "tabs",
             "children": [
               {
-                "id": "000da84721dd645b",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "编程学习/git学习/git创建分支并关联到远程仓库.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "git创建分支并关联到远程仓库"
-                }
-              },
-              {
-                "id": "28cce212ee513a2e",
+                "id": "6d5cf4fbc5572897",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "面试整理/简历包装/整体包装.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "整体包装"
-                }
-              },
-              {
-                "id": "db72c1f870e38f4f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "面试整理/简历包装/业务面整理/业务面整理.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "业务面整理"
+                  "title": "新标签页"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "b7e63b310ee0956d",
+            "id": "f1f2ebe020b9cb62",
             "type": "tabs",
             "children": [
               {
-                "id": "8aafbb06c530bcf9",
+                "id": "e399b97621a8b622",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "terminal:terminal": {
-                      "cwd": "/Users/macando/Documents/Obsidian_Storage/Study",
+                      "cwd": "/Users/apple/Documents/Obsidian_Storage/Study",
                       "focus": false,
                       "profile": {
                         "args": [
@@ -180,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "c809f1e1a0a386cc",
@@ -310,54 +274,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8aafbb06c530bcf9",
+  "active": "e399b97621a8b622",
   "lastOpenFiles": [
     "面试整理/简历包装/整体包装.md",
+    "C++学习",
+    "区块链学习",
+    "git学习/git创建分支并关联到远程仓库.md",
+    "面试整理/项目/clutch项目/技术细节/PTY 复用的完整逻辑.md",
+    "面试整理/项目/clutch项目/技术细节/CLI 的 Hybrid 完整链路实现.md",
     "面试整理/简历包装/业务面整理/业务面整理.md",
+    "Agent学习/提示词沉淀/skill 库沉淀/Archify 使用手册.md",
     "面试整理/项目/clutch项目/技术细节/「前端」ClutchStore 的状态管理设计.md",
     "面试整理/简历包装/技术面整理/功能实现整理.md",
     "面试整理/项目/clutch项目/技术细节/执行引擎分流.md",
-    "编程学习/git学习/git创建分支并关联到远程仓库.md",
-    "编程学习/Python学习/应用场景代码/Websocket_patch 防抖合批.md",
-    "编程学习/git学习/推送远程新仓库.md",
-    "attachments/Pasted image 20260914155207.png",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
-    "编程学习/git学习/检查git用户邮箱配置环境.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/铅笔手绘风.md",
-    "编程学习/git学习/将当前commit封存改到新分支流程.md",
-    "编程学习/git学习/更换用户名的git流程.md",
+    "Python学习/应用场景代码/Websocket_patch 防抖合批.md",
+    "git学习/推送远程新仓库.md",
+    "_attachments/Pasted image 20260914155207.png",
+    "Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
+    "Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md",
+    "Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
+    "git学习/检查git用户邮箱配置环境.md",
+    "Agent学习/提示词沉淀/UI设计积累/铅笔手绘风.md",
+    "git学习/将当前commit封存改到新分支流程.md",
+    "git学习/更换用户名的git流程.md",
     "面试整理/简历包装/业务面整理",
     "使用Obsidian/NoteBook Navigator 透明图标设置.md",
     "使用Obsidian",
-    "编程学习/公司内容学习/安卓开发知识.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/涂鸦接头.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/暖感有机风.md",
+    "项目编程学习/公司内容学习/安卓开发知识.md",
+    "Agent学习/提示词沉淀/UI设计积累/涂鸦接头.md",
+    "Agent学习/提示词沉淀/UI设计积累/暖感有机风.md",
     "学习积累/编程学习/框架学习/Vue 框架学习.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/Github风格.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/终端风.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/伊斯兰几何.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/学术科普风.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/像素艺术风.md",
-    "编程学习/Agent学习/提示词沉淀/UI设计积累/水墨画风.md",
-    "编程学习/框架学习/Vue 框架",
-    "编程学习/框架学习/React 框架",
+    "Agent学习/提示词沉淀/UI设计积累/Github风格.md",
+    "Agent学习/提示词沉淀/UI设计积累/终端风.md",
+    "项目编程学习/框架学习/Vue 框架",
+    "项目编程学习/框架学习/React 框架",
     "学习积累/编程学习",
-    "编程学习/Python学习/应用场景代码",
+    "Python学习/应用场景代码",
     "面试整理/简历包装/技术面整理",
-    "attachments/Pasted image 20260901145204.png",
-    "attachments/Pasted image 20260831202903.png",
-    "attachments/Pasted image 20260831190554.png",
-    "attachments/Pasted image 20260831164630.png",
+    "_attachments/Pasted image 20260901145204.png",
+    "_attachments/Pasted image 20260831202903.png",
+    "_attachments/Pasted image 20260831190554.png",
+    "_attachments/Pasted image 20260831164630.png",
     "学习积累/Agent学习/提示词沉淀/产品落地",
-    "attachments/Pasted image 20260825150213.png",
-    "attachments/Pasted image 20260825150313.png",
-    "attachments/Pasted image 20260825150516.png",
-    "attachments/Pasted image 20260825145708.png",
-    "attachments/Pasted image 20260825145931.png",
-    "编程学习/后端学习/clutch项目后端思维/测试组件",
-    "编程学习/后端学习/clutch项目后端思维/通用基础设施",
+    "_attachments/Pasted image 20260825150213.png",
+    "_attachments/Pasted image 20260825150313.png",
+    "_attachments/Pasted image 20260825150516.png",
+    "_attachments/Pasted image 20260825145708.png",
+    "_attachments/Pasted image 20260825145931.png",
     "公考/行测/资料分析/未命名.canvas",
     "未命名.canvas",
     "A面开发工作流.canvas"

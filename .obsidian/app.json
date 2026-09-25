@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "_attachments",
   "readableLineLength": false,
   "spellcheck": false,
   "tabSize": 5,
