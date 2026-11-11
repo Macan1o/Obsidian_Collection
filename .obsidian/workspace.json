@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "git创建分支并关联到远程仓库"
             }
+          },
+          {
+            "id": "e07a55e15610e66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git学习/更换用户名的git流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "更换用户名的git流程"
+            }
+          },
+          {
+            "id": "0ec32d09c1e4bc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git学习/检查git用户邮箱配置环境.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "检查git用户邮箱配置环境"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +213,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           },
           {
@@ -194,8 +223,8 @@
             "state": {
               "type": "tandem-comments-sidebar",
               "state": {},
-              "icon": "message-square",
-              "title": "Comments"
+              "icon": "lucide-ghost",
+              "title": "tandem-comments-sidebar"
             }
           }
         ],
@@ -220,12 +249,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6d5cf4fbc5572897",
+  "active": "e07a55e15610e66d",
   "lastOpenFiles": [
+    "git学习/git创建分支并关联到远程仓库.md",
+    "git学习/检查git用户邮箱配置环境.md",
+    "git学习/更换用户名的git流程.md",
+    "阅读感悟/金字塔原理",
+    "阅读感悟",
     "面试整理/简历包装/整体包装.md",
     "C++学习",
     "区块链学习",
-    "git学习/git创建分支并关联到远程仓库.md",
     "面试整理/项目/clutch项目/技术细节/PTY 复用的完整逻辑.md",
     "面试整理/项目/clutch项目/技术细节/CLI 的 Hybrid 完整链路实现.md",
     "面试整理/简历包装/业务面整理/业务面整理.md",
@@ -239,10 +272,8 @@
     "Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
     "Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md",
     "Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
-    "git学习/检查git用户邮箱配置环境.md",
     "Agent学习/提示词沉淀/UI设计积累/铅笔手绘风.md",
     "git学习/将当前commit封存改到新分支流程.md",
-    "git学习/更换用户名的git流程.md",
     "面试整理/简历包装/业务面整理",
     "使用Obsidian/NoteBook Navigator 透明图标设置.md",
     "使用Obsidian",
@@ -256,12 +287,10 @@
     "项目编程学习/框架学习/React 框架",
     "学习积累/编程学习",
     "Python学习/应用场景代码",
-    "面试整理/简历包装/技术面整理",
     "_attachments/Pasted image 20260901145204.png",
     "_attachments/Pasted image 20260831202903.png",
     "_attachments/Pasted image 20260831190554.png",
     "_attachments/Pasted image 20260831164630.png",
-    "学习积累/Agent学习/提示词沉淀/产品落地",
     "_attachments/Pasted image 20260825150213.png",
     "_attachments/Pasted image 20260825150313.png",
     "_attachments/Pasted image 20260825150516.png",
