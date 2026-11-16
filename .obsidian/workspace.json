@@ -36,6 +36,76 @@
             }
           },
           {
+            "id": "942fc431146b1f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "手绘涂鸦风"
+            }
+          },
+          {
+            "id": "2aadafb77e503481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent学习/提示词沉淀/UI设计积累/使用说明.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "使用说明"
+            }
+          },
+          {
+            "id": "2c42f25abd45e2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "色彩印刷风"
+            }
+          },
+          {
+            "id": "97247cff52824ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent学习/提示词沉淀/UI设计积累/漫画风格.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "漫画风格"
+            }
+          },
+          {
+            "id": "fcfde2298b89a271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "运动涂鸦风"
+            }
+          },
+          {
             "id": "0ec32d09c1e4bc59",
             "type": "leaf",
             "state": {
@@ -50,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,11 +319,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e07a55e15610e66d",
+  "active": "fcfde2298b89a271",
   "lastOpenFiles": [
+    "Agent学习/提示词沉淀/UI设计积累/漫画风格.md",
+    "Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
+    "Agent学习/提示词沉淀/UI设计积累/使用说明.md",
+    "Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
+    "git学习/更换用户名的git流程.md",
     "git学习/git创建分支并关联到远程仓库.md",
     "git学习/检查git用户邮箱配置环境.md",
-    "git学习/更换用户名的git流程.md",
     "阅读感悟/金字塔原理",
     "阅读感悟",
     "面试整理/简历包装/整体包装.md",
@@ -269,9 +343,7 @@
     "Python学习/应用场景代码/Websocket_patch 防抖合批.md",
     "git学习/推送远程新仓库.md",
     "_attachments/Pasted image 20260914155207.png",
-    "Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
     "Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md",
-    "Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
     "Agent学习/提示词沉淀/UI设计积累/铅笔手绘风.md",
     "git学习/将当前commit封存改到新分支流程.md",
     "面试整理/简历包装/业务面整理",
@@ -282,7 +354,6 @@
     "Agent学习/提示词沉淀/UI设计积累/暖感有机风.md",
     "学习积累/编程学习/框架学习/Vue 框架学习.md",
     "Agent学习/提示词沉淀/UI设计积累/Github风格.md",
-    "Agent学习/提示词沉淀/UI设计积累/终端风.md",
     "项目编程学习/框架学习/Vue 框架",
     "项目编程学习/框架学习/React 框架",
     "学习积累/编程学习",
