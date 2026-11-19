@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -347,10 +347,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d884ba18c6cdad88",
+  "active": "2c42f25abd45e2a5",
   "lastOpenFiles": [
-    "Agent学习/提示词沉淀/UI设计积累/极简扁平风提示词.md",
     "Agent学习/提示词沉淀/UI设计积累/漫画风格.md",
+    "Agent学习/提示词沉淀/UI设计积累/视差杂志.md",
+    "Agent学习/提示词沉淀/UI设计积累/极简扁平风提示词.md",
     "Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
     "Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md",
     "Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md",
@@ -381,7 +382,6 @@
     "项目编程学习/公司内容学习/安卓开发知识.md",
     "Agent学习/提示词沉淀/UI设计积累/涂鸦接头.md",
     "Agent学习/提示词沉淀/UI设计积累/暖感有机风.md",
-    "学习积累/编程学习/框架学习/Vue 框架学习.md",
     "项目编程学习/框架学习/Vue 框架",
     "项目编程学习/框架学习/React 框架",
     "学习积累/编程学习",
