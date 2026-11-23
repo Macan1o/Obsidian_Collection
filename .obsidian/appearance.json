@@ -9,5 +9,6 @@
   "accentColor": "#a0b3ba",
   "textFontFamily": "Noto Serif SC,Futura,NanoDyongChyangSong CN 24",
   "interfaceFontFamily": "Noto Serif SC,Arial Black,NanoDyongChyangSong CN 24",
-  "translucency": false
+  "translucency": false,
+  "showRibbon": true
 }
