@@ -1,0 +1,29 @@
+# ===== macOS 系统垃圾 =====
+.DS_Store
+._*
+
+# ===== 误复制的嵌套配置目录（Obsidian 不会读取）=====
+.obsidian/.obsidian/
+
+# ===== Obsidian 运行时状态：每次开关窗口/拖动面板都会变，不做跨机同步 =====
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/cache/
+.obsidian/plugins/*/cache.json
+.obsidian/plugins/*/reference-files/cache.json
+
+# ===== 纯视图状态的插件配置（折叠展开 / 列宽，不算设置）=====
+.obsidian/plugins/notebook-navigator/data.json
+.obsidian/plugins/table-column-resize/data.json
+
+# ===== 本地回收站与临时文件 =====
+.trash/
+*.tmp
+*.bak
+
+# ===== 插件缓存 =====
+.obsidian-side-comments/cache/
+
+# ===== 外部 Agent 会话流水（需要留档就从磁盘删掉这一行）=====
+.claudian/sessions/
