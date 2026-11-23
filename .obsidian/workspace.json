@@ -49,8 +49,7 @@
               "title": "检查git用户邮箱配置环境"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,10 +249,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "73e58e42c6624bf5",
+  "active": "af30f33d1f904025",
   "lastOpenFiles": [
-    "编程学习/git学习/检查git用户邮箱配置环境.md",
     "编程学习/git学习/更换用户名的git流程.md",
+    "编程学习/git学习/检查git用户邮箱配置环境.md",
     "编程学习/Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md",
     "编程学习/Agent学习/提示词沉淀/UI设计积累/使用说明.md",
     "编程学习",
