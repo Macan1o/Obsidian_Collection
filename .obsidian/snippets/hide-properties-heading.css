@@ -1,0 +1,75 @@
+/* 隐藏属性面板顶部的「笔记属性」标题 */
+.metadata-properties-heading {
+  display: none !important;
+}
+
+/* 属性区与下方正文的间距收紧 */
+.metadata-container {
+  margin-bottom: 4px !important;
+  padding-bottom: 0 !important;
+}
+
+/* 属性区改为 flex，好让「+」能跟在 created 同一行右侧 */
+.metadata-content {
+  display: flex !important;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+}
+.metadata-property {
+  flex: 0 1 auto;
+}
+
+/* 属性行：整组靠右，时间在前、字段名（created）在后；字号略小 */
+.metadata-property {
+  display: flex !important;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.88em;
+}
+.metadata-property-key,
+.metadata-property-value {
+  margin: 0 !important;
+  flex: 0 0 auto;
+}
+.metadata-property-value {
+  order: 1;
+}
+.metadata-property-key {
+  order: 2;
+  width: auto !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+  align-items: center;
+  text-align: right;
+}
+.metadata-property-key * {
+  text-align: right;
+}
+
+/* 属性行内的图标（时钟 / 日历）也小一号 */
+.metadata-property svg {
+  width: 15px;
+  height: 15px;
+}
+
+/* 「+ 添加笔记属性」只保留一个 + 符号 */
+.metadata-add-button {
+  flex: 0 0 auto;
+  width: auto !important;
+  font-size: 0 !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 4px !important;
+}
+.metadata-add-button > * {
+  display: none !important;
+}
+.metadata-add-button::before {
+  content: "+";
+  font-size: 18px;
+  line-height: 1;
+}

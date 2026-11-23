@@ -1,3 +1,7 @@
+---
+created: 2026-08-21T11:01
+---
+
 
 ---
 ## 8. `@dataclass`：`frozen` / `slots` / `field` / `@property` / `@classmethod`

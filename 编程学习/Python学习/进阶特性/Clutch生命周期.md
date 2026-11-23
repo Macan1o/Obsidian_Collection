@@ -1,3 +1,7 @@
+---
+created: 2026-08-19T15:05
+---
+
 
 ---
 ## 11. 装饰器三件套：`@lru_cache` / `@contextmanager` / `@asynccontextmanager`

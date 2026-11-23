@@ -1,3 +1,7 @@
+---
+created: 2026-08-19T14:55
+---
+
 
 ---
 ## 1. `from __future__ import annotations` — 推迟求值类型注解

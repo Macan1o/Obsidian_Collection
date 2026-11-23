@@ -3,7 +3,8 @@
   "baseFontSize": 19,
   "enabledCssSnippets": [
     "text-spacing",
-    "remove‑button‑bg.css"
+    "remove‑button‑bg.css",
+    "hide-properties-heading"
   ],
   "cssTheme": "Monokai",
   "accentColor": "#a0b3ba",
