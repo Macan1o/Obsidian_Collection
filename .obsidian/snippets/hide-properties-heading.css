@@ -39,14 +39,6 @@
 }
 .metadata-property-key {
   order: 2;
-  width: auto !important;
-  display: flex !important;
-  justify-content: flex-end !important;
-  align-items: center;
-  text-align: right;
-}
-.metadata-property-key * {
-  text-align: right;
 }
 
 /* 属性行内的图标（时钟 / 日历）也小一号 */
