@@ -563,72 +563,72 @@
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/Claude.md的维护准则.md": {
+    "编程学习/项目编程学习/后端学习/clutch项目后端思维/全局组件地图.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/提示词工程参考及实践.md": {
+    "编程学习/项目编程学习/后端学习/clutch项目后端思维/学习提示词.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/提示词工程范畴.md": {
+    "编程学习/Agent学习/提示词沉淀/Claude.md的维护准则.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/skill 库沉淀/Skill 的书写思路.md": {
+    "编程学习/Agent学习/提示词沉淀/提示词工程参考及实践.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/UI设计积累/使用说明.md": {
+    "编程学习/Agent学习/提示词沉淀/提示词工程范畴.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md": {
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/使用说明.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/UI设计积累/漫画风格.md": {
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/手绘涂鸦风.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md": {
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/漫画风格.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md": {
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/色彩印刷风.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Python学习/Clutch项目语法映射.md": {
+    "编程学习/Agent学习/提示词沉淀/UI设计积累/运动涂鸦风.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Python学习/JS 视角看 Python.md": {
+    "编程学习/Agent学习/提示词沉淀/skill 库沉淀/Skill 的书写思路.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Python学习/Python学习规划.md": {
+    "编程学习/Python学习/Clutch项目语法映射.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "项目编程学习/后端学习/clutch项目后端思维/全局组件地图.md": {
+    "编程学习/Python学习/JS 视角看 Python.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "项目编程学习/后端学习/clutch项目后端思维/学习提示词.md": {
+    "编程学习/Python学习/Python学习规划.md": {
       "folder": true,
       "tag": false,
       "property": false
@@ -640,21 +640,21 @@
   "fileBackgroundColors": {},
   "folderIcons": {
     "面试整理": "emoji:💼",
-    "使用Obsidian": "notebook-pen",
-    "区块链学习": "emoji:🔗",
     "_attachments": "file-down",
-    "C++学习": "plus",
-    "Agent学习": "emoji:🧠",
-    "Python学习": "emoji:🐍",
-    "项目编程学习": "emoji:🧑‍💻",
-    "项目编程学习/面试八股": "search",
-    "项目编程学习/学习日志": "logs",
-    "项目编程学习/面试八股/简历包装": "emoji:🫔",
-    "项目编程学习/后端学习": "server",
-    "项目编程学习/框架学习": "frame",
-    "项目编程学习/公司内容学习": "emoji:☠️",
-    "git学习": "network",
-    "编程思维": "brain"
+    "编程学习/编程思维": "brain",
+    "编程学习/区块链学习": "emoji:🔗",
+    "编程学习/使用Obsidian": "notebook-pen",
+    "编程学习/项目编程学习": "emoji:🧑‍💻",
+    "编程学习/项目编程学习/面试八股": "search",
+    "编程学习/项目编程学习/学习日志": "logs",
+    "编程学习/项目编程学习/面试八股/简历包装": "emoji:🫔",
+    "编程学习/项目编程学习/后端学习": "server",
+    "编程学习/项目编程学习/框架学习": "frame",
+    "编程学习/项目编程学习/公司内容学习": "emoji:☠️",
+    "编程学习/Agent学习": "emoji:🧠",
+    "编程学习/C++学习": "plus",
+    "编程学习/git学习": "network",
+    "编程学习/Python学习": "emoji:🐍"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
@@ -662,9 +662,9 @@
     "面试整理/简历包装": "created-desc",
     "面试整理/项目/clutch项目/主链路完整逻辑": "created-desc",
     "面试整理/项目/clutch项目/技术细节": "created-desc",
-    "Python学习/进阶特性": "created-desc",
-    "项目编程学习/面试八股/简历包装/clutch项目讲解": "created-desc",
-    "项目编程学习/后端学习/clutch项目后端思维": "created-desc"
+    "编程学习/项目编程学习/面试八股/简历包装/clutch项目讲解": "created-desc",
+    "编程学习/项目编程学习/后端学习/clutch项目后端思维": "created-desc",
+    "编程学习/Python学习/进阶特性": "created-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
@@ -674,10 +674,10 @@
     "/": {
       "previewRows": 1
     },
-    "项目编程学习/面试八股": {
+    "编程学习/项目编程学习/面试八股": {
       "mode": "compact"
     },
-    "项目编程学习/后端学习": {
+    "编程学习/项目编程学习/后端学习": {
       "previewRows": 1
     }
   },
@@ -696,7 +696,7 @@
   "virtualFolderColors": {},
   "virtualFolderBackgroundColors": {},
   "navigationSeparators": {
-    "folder:编程思维": true
+    "folder:编程学习/编程思维": true
   },
   "userColors": [
     "#ffffff",
