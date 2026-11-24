@@ -6,8 +6,12 @@
 .obsidian/.obsidian/
 
 # ===== Obsidian 运行时状态 =====
-# 注意：.obsidian/workspace.json 刻意纳入版本控制 —— 它记录打开的标签页与面板布局，
-# 用于换电脑后恢复上次打开的 tab。移动端布局单独忽略，避免和桌面布局互相覆盖。
+# workspace.json 刻意不跟踪：点标签页、折叠/展开侧栏、打开另一篇笔记都会改写它，
+# 每次 push 都会带上一堆纯布局噪音。需要跨机搬布局时用专门命令：
+#   sync-obsidian tabs save     发布快照（存为 layout-published.json）
+#   sync-obsidian tabs restore  退出 Obsidian 后按快照恢复标签页
+# 移动端布局同样忽略，避免和桌面布局互相覆盖。
+.obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 .obsidian/plugins/*/cache/
