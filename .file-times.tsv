@@ -1,3 +1,6 @@
+编程学习/Agent学习/Skill 使用规范.md	1786501057
+编程学习/Agent学习/Skill 的书写思路.md	1788052528
+编程学习/使用Obsidian/Obsidian 各个仓库职责.md	1795519776
 .claudian/claudian-settings.json	1786584559
 .gitignore	1795422989
 .obsidian-side-comments/files/a9/a99a17f89ffa17e0a03d786a3da1aefba7512a52e267435dadbb46d5b9fcebcd.json	1786501056
@@ -9,6 +12,7 @@
 .obsidian/core-plugins.json	1790309992
 .obsidian/graph.json	1786501059
 .obsidian/hotkeys.json	1787020694
+.obsidian/layout-published.json	1795500769
 .obsidian/plugins/code-styler/main.js	1786501067
 .obsidian/plugins/code-styler/manifest.json	1786501067
 .obsidian/plugins/code-styler/styles.css	1786501067
@@ -85,7 +89,6 @@
 .obsidian/themes/Monokai/manifest.json	1787882569
 .obsidian/themes/Monokai/theme.css	1788761472
 .obsidian/types.json	1790309991
-.obsidian/workspace.json	1795424708
 _attachments/Pasted image 20260705122953.png	1786501051
 _attachments/Pasted image 20260721101605.png	1786501052
 _attachments/Pasted image 20260721101929.png	1786501055
@@ -146,13 +149,9 @@ _attachments/Pasted image 20260914155207.png	1789372327
 编程学习/Agent学习/提示词沉淀/UI设计积累/铅笔手绘风.md	1786502710
 编程学习/Agent学习/提示词沉淀/UI设计积累/韩式极简.md	1786501057
 编程学习/Agent学习/提示词沉淀/skill 库沉淀/Archify 使用手册.md	1789695340
-编程学习/Agent学习/提示词沉淀/skill 库沉淀/Skill 使用规范.md	1786501057
-编程学习/Agent学习/提示词沉淀/skill 库沉淀/Skill 的书写思路.md	1788052528
 编程学习/Agent学习/提示词沉淀/提示词工程参考及实践.md	1786501057
 编程学习/Agent学习/提示词沉淀/提示词工程范畴.md	1786501057
 编程学习/Agent学习/提示词沉淀/提示词库.md	1788347138
-编程学习/Agent学习/理论知识/Agent学习绪论.md	1786501057
-编程学习/Agent学习/理论知识/如何正确利用Vibe coding.md	1786501057
 编程学习/Python学习/Clutch项目语法映射.md	1787122564
 编程学习/Python学习/JS 视角看 Python.md	1786501057
 编程学习/Python学习/Python学习规划.md	1786501057
@@ -187,7 +186,6 @@ _attachments/Pasted image 20260914155207.png	1789372327
 编程学习/编程思维/装饰模式.md	1786501056
 编程学习/编程思维/解释器和编译器.md	1786501056
 编程学习/项目编程学习/公司内容学习/Cursor_Chronicle工具.md	1786501057
-编程学习/项目编程学习/公司内容学习/公司CI、CD的流程.md	1788137912
 编程学习/项目编程学习/公司内容学习/安卓开发知识.md	1786501057
 编程学习/项目编程学习/后端学习/clutch项目后端思维/主干链路/chat_runner.py.md	1786501058
 编程学习/项目编程学习/后端学习/clutch项目后端思维/主干链路/compiler.py.md	1786517765

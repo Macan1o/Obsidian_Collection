@@ -8,8 +8,8 @@
   ],
   "cssTheme": "Monokai",
   "accentColor": "#a0b3ba",
-  "textFontFamily": "Noto Serif SC,Futura,NanoDyongChyangSong CN 24",
-  "interfaceFontFamily": "Noto Serif SC,Arial Black,NanoDyongChyangSong CN 24",
+  "textFontFamily": "Avenir Next,Futura,NanoDyongChyangSong CN 24",
+  "interfaceFontFamily": "Avenir Next,Arial Black,NanoDyongChyangSong CN 24",
   "translucency": false,
   "showRibbon": true
 }
